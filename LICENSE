@@ -2,16 +2,36 @@
 The Agentic AI-SDLC Framework
 Copyright (c) 2026 Sumit Shaw.
 ====================================================================================================
-This repository is dual-licensed. 
 
-1. All code snippets, workflows, and the Agentic AI-SDLC Framework are licensed under the Apache License 2.0.
-2. All written content, documentation, diagrams, and references are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This repository is dual-licensed.
 
-Please see the individual license below for the full legal texts.
-====================================================================================================
-Apache License
-You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
+**MIT License**
+All source code, code snippets, scripts, automation assets, workflows, and executable artifacts contained in this repository are licensed under the MIT License.
 
-CC BY 4.0 (Attribution) 
-You may obtain a copy of the License at: https://creativecommons.org/licenses/by-nc-nd/4.0/
-====================================================================================================
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**
+All framework content, handbook materials, documentation, methodologies, templates, prompts, diagrams, illustrations, and other non-software content contained in this repository are licensed under the CC BY-NC-ND 4.0 License.
+
+---
+
+For the complete license terms, please refer to the official license texts:
+
+**MIT License**
+https://mit-license.org/
+
+**CC BY-NC-ND 4.0 License**
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+****************************************************************************************************
+
+---
+
+You are free to share, copy, redistribute, and build upon this framework in any medium or format, provided that you comply with the following terms:
+
+* Attribution: You must give appropriate credit to Sumit Shaw, provide a link to the license, and indicate if any changes were made.
+* Non-Commercial: You may not use the material for commercial purposes.
+* No Additional Restrictions: You may not apply legal terms or technological measures that legally restrict others from exercising the rights granted by this license.
+
+For permissions beyond the scope of these licenses, please contact Sumit Shaw at <www.linkedin.com/in/sumitshaw/>
+
+
+---
