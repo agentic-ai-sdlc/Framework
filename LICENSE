@@ -8,8 +8,8 @@ This repository is dual-licensed.
 **MIT License**
 All source code, code snippets, scripts, automation assets, workflows, and executable artifacts contained in this repository are licensed under the MIT License.
 
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**
-All framework content, handbook materials, documentation, methodologies, templates, prompts, diagrams, illustrations, and other non-software content contained in this repository are licensed under the CC BY-NC-ND 4.0 License.
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License**
+All framework content, handbook materials, documentation, methodologies, templates, prompts, diagrams, illustrations, and other non-software content contained in this repository are licensed under the CC BY-NC-SA 4.0 License.
 
 ---
 
@@ -18,8 +18,8 @@ For the complete license terms, please refer to the official license texts:
 **MIT License**
 https://mit-license.org/
 
-**CC BY-NC-ND 4.0 License**
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+**CC BY-NC-SA 4.0 License**
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ****************************************************************************************************
 ---
@@ -28,6 +28,7 @@ You are free to share, copy, redistribute, and build upon this framework in any 
 
 * Attribution: You must give appropriate credit to Sumit Shaw, provide a link to the license, and indicate if any changes were made.
 * Non-Commercial: You may not use the material for commercial purposes.
+* Share Alike: If you remix, transform, adapt, or build upon the material, you must distribute your contributions under the same License.
 * No Additional Restrictions: You may not apply legal terms or technological measures that legally restrict others from exercising the rights granted by this license.
 
 For permissions beyond the scope of these licenses, please contact Sumit Shaw at <www.linkedin.com/in/sumitshaw/>
