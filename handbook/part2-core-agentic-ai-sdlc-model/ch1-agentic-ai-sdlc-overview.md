@@ -13,7 +13,7 @@ The Agent-Driven phases exposes the probabilistic nature of the AI development w
 
 ## About the Model
 
-The model consists of three major areas:
+The model consists of three major phases:
 
 ### Pre-SDLC Phase
 
@@ -46,7 +46,7 @@ The model consists of three major areas:
 ### Continuous Governance
 
 * **Change Management and Human Gates**
-    The Change Management and Human Gates is a continuous governance process that operates across all phases of the Agentic Software Development Lifecycle. It provides governance, oversight, accountability, and controlled decision-making to ensure that AI-generated outputs remain aligned with business objectives, architectural standards, security requirements, compliance obligations, and organizational policies.
+    The Change Management and Human Gates function as a continuous governance layer that operates across every phase of the Agentic Software Development Lifecycle. It provides governance, oversight, accountability, and controlled decision-making to ensure that AI-generated outputs remain aligned with business objectives, architectural standards, security requirements, compliance obligations, and organizational policies.
 
 Together, these areas provide a complete lifecycle from strategic objectives through continuous operations and optimization.
 
