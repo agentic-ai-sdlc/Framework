@@ -35,5 +35,15 @@ The core philosophy of this framework is AI-native, specification-driven, and go
 
 The framework does not seek to replace existing software development methodologies. Instead, it complements them by introducing governed collaboration between human experts and intelligent AI agents, enabling organizations to build software faster while maintaining quality, security, compliance, and architectural integrity.
 
+---
+
+### License: 
+
+This framework is dual-licensed: 
+
+* The **MIT License** applies to software components
+* The **CC BY-NC-SA 4.0 License** applies to documentation and other non-software content. 
+
+See the LICENSE file for complete licensing details.
 
 ---

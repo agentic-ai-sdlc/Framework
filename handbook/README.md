@@ -35,5 +35,15 @@ This Agentic AI SDLC Framework Handbook is a comprehensive guide for organizatio
     Chapter 1.  Governance Overview
     Chapter 2.  Transformation Overview
 
+---
+
+### License: 
+
+This framework is dual-licensed: 
+
+* The **MIT License** applies to software components
+* The **CC BY-NC-SA 4.0 License** applies to documentation and other non-software content. 
+
+See the LICENSE file for complete licensing details.
 
 ---
