@@ -6,7 +6,7 @@ The framework is built to enable seamless collaboration between human experts an
 
 This framework is not a software development methodology such as Agile or DevSecOps. Instead, it complements existing methodologies by providing the principles, standards, governance, guidance, and best practices, and a cyclic Agentic AI SDLC model required to successfully integrate Agentic AI into your existing software delivery practices.
 
-![Diagram showing a cyclic Agentic AI SDLC with Human Gates model. Core Phases start with Phase A Use Case Engineering and cycles up to Phase G Agent-Driven Operations & Maintenance. Central process of Change Management and Human Gates runs across all the SDLC phases, handling requirements, governance, and critical decision makings](../assets/diagrams/agentic-ai-sdlc-png.png){width="75%"}
+![Diagram showing a cyclic Agentic AI SDLC with Human Gates model. Core Phases starts with Phase A Use Case Engineering and cycles up to Phase G Agent-Driven Operations & Maintenance. Central process of Change Management and Human Gates runs across all the SDLC phases, handling requirements, governance, and critical decision makings](../assets/diagrams/agentic-ai-sdlc-png.png){width="75%"}
 
 The cyclic nature of the Agentic AI SDLC with Human Gates model represents the output from each phase provides input for the next phase.
 

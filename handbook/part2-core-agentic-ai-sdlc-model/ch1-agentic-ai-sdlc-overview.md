@@ -4,7 +4,7 @@ The Agentic AI SDLC is an agent-driven, specification-centric, cyclic model buil
 
 The model recognizes that successful software initiatives begin with understanding the business context and user needs before progressing through architecture, engineering, testing, deployment, and operations. By combining human expertise with specialized AI agents, organizations can accelerate software delivery, improve quality, enhance productivity, and promote continuous learning throughout the software lifecycle.
 
-![Diagram showing a cyclic Agentic AI SDLC with Human Gates model. Core Phases start with Phase A Use Case Engineering and cycles up to Phase G Agent-Driven Operations & Maintenance. Central process of Change Management and Human Gates runs across all the SDLC phases, handling requirements, governance, and critical decision makings](../assets/diagrams/agentic-ai-sdlc-png.png){width="75%"}
+![Diagram showing a cyclic Agentic AI SDLC with Human Gates model. Core Phases start with Phase A Use Case Engineering and cycles up to Phase G Agent-Driven Operations & Maintenance. Central process of Change Management and Human Gates runs across all the SDLC phases, handling requirements, governance, and critical decision makings](../../assets/diagrams/agentic-ai-sdlc-png.png){width="75%"}
 
 The cyclic nature of the Agentic AI SDLC with Human Gates model represents the output from each phase provides input for the next phase.
 
