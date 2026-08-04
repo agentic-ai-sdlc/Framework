@@ -6,7 +6,7 @@ The model recognizes that successful software initiatives begin with understandi
 
 ![Diagram showing a cyclic Agentic AI SDLC with Human Gates model. Core Phases start with Phase A Use Case Engineering and cycles up to Phase G Agent-Driven Operations & Maintenance. Central process of Change Management and Human Gates runs across all the SDLC phases, handling requirements, governance, and critical decision makings](../../assets/diagrams/agentic-ai-sdlc-png.png){width="75%"}
 
-The cyclic nature of the Agentic AI SDLC with Human Gates model represents the output from each phase provides input for the next phase.
+The cyclic nature of the Agentic AI SDLC with Human Gates model represents the output from each phase provides input for the next phase. The model also relies on continuous refinement cycles, and the process can iterate within a single phase or loop back between phases until the desired outcome is achieved.
 
 The Agent-Driven phases exposes the probabilistic nature of the AI development while the Spec-Driven phases enforces the deterministic nature of this development framework. The engineering team need to maintain a balance of the probabilistic and deterministic nature of the phases for optimum output. The Change Management and Human Gates provides governance, oversight, accountability, and a controlled decision-making.
 

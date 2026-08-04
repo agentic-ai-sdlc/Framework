@@ -1,23 +1,23 @@
-# Separation of Agentic AI Context
+# Separation of Context
 
-Seperating the Context by splitting the Agentic AI instructions or specifications into different layers like 'Business Intent Layer', 'Governance Layer' and 'Application Runtime Layer'.
+Seperating the Agentic AI Context by splitting the instructions or specifications into different layers like 'Governance Layer', 'Business Intent Layer' and 'Application Runtime Layer'.
 
 
-## The Governance Layer (agenticdev directory)
+## Governance Layer (agentic_dev directory)
 
 This root level directory defines the core principles of your software product development. It is the static, systemic control surface for your SDLC. It houses the exact rules, constraints, and security guardrails that dictate how your AI coding agents behave across the entire repository. The agent loads these rules on every execution, regardless of what feature it is building.
 
 Example of what goes inside:
 
-* Personas: Profiles defining the AI's role (e.g., architect.md forcing specific framework patterns, or secops.md for pre-commit vulnerability scanning).
-* Guardrails: For autonomous coding agent (e.g., Cursor, Devin, GitHub Copilot). Prevent the AI from writing messy, insecure, or non-compliant source code.
+* Personas: Profiles defining the AI's role (e.g., architect.md for specific framework patterns, or secops.md for pre-commit vulnerability scanning).
+* Guardrails: For autonomous coding agents. Prevent the AI from writing messy, insecure, or non-compliant source code.
 * Constitution: High level principles, constraints, and operating model for designing, training, and deploying the software system.
-* Coding-standards: Explicit formatting and structural rules (e.g., "Always use constructor injection").
-* Security Rules: Hard boundaries (e.g., "Never hardcode credentials," "Mask all PII in logs").
-* Anti Slop: Rules preventing bad AI habits (e.g., "No redundant try/catch blocks," "No commented-out dead code").
+* Coding-standards: Explicit formatting and structural rules (e.g., "always use constructor injection").
+* Security Rules: Hard boundaries (e.g., "never hardcode credentials," "Mask all PII in logs").
+* Anti Slop: Rules preventing bad AI habits (e.g., "no redundant try/catch blocks," "No commented-out dead code").
 
 
-## The Business Intent Layer (specifications directory)
+## Business Intent Layer (specifications directory)
 
 This root level directory defines the software product. It is the dynamic execution brain of your project. It contains the business requirements, system architecture, and the living state machine that the AI uses to track its progress. The AI reads this folder to understand exactly what needs to be built and where it left off.
 
@@ -31,7 +31,7 @@ Example of what goes inside:
 * NFRs and SLAs: Non-functional requirements.
 
 
-## The Application Runtime Layer (agenticai directory)
+## Application Runtime Layer (agentic_run directory)
 
 This runtime directory defines the AI capabilities of your software product and runtime execution. You only use this directory if the software application you are building features AI capabilities (like a generative AI application, an internal multi-agent workflow engine, or a customer support bot). These are not instructions for your coding assistant; this is the actual application source code that gets compiled and deployed to production.
 
