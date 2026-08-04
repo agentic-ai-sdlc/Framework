@@ -20,8 +20,8 @@ This Agentic AI SDLC Framework Handbook is a comprehensive guide for organizatio
     Chapter 3.  Purpose and Benefits
 
 ### 2. The Agentic AI SDLC Model
-    Chapter 1.  Business Vision
-    Chapter 2.  Core Development Phases
+    Chapter 1.  Agentic AI SDLC Overview
+    Chapter 2.  Business Vision
     Chapter 3.  Phase A. Use-Case Engineering 
     Chapter 4.  Phase B. Vibe Design & Prototyping 
     Chapter 5.  Phase C. Spec-Driven Architecture
